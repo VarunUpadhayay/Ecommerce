@@ -1,0 +1,7 @@
+com\eccomerce\entities\Customer.class
+com\eccomerce\entities\Address.class
+com\eccomerce\EcommerceApplication.class
+com\eccomerce\entities\Review.class
+com\eccomerce\entities\Product.class
+com\eccomerce\entities\Cart.class
+com\eccomerce\entities\Category.class
